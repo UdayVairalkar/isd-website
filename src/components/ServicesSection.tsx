@@ -2,11 +2,11 @@ import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 import { Home, Sofa, BedDouble, UtensilsCrossed, Baby, Box } from "lucide-react";
 
 const services = [
-  { icon: Home, title: "Residential Interior Design", desc: "Complete home transformation with luxury finishes" },
-  { icon: Sofa, title: "Living Room Design", desc: "Elegant living spaces for comfort and style" },
-  { icon: BedDouble, title: "Bedroom Design", desc: "Serene bedrooms crafted for relaxation" },
-  { icon: UtensilsCrossed, title: "Dining Area Design", desc: "Sophisticated dining experiences" },
-  { icon: Baby, title: "Kids Room Design", desc: "Playful yet functional children's spaces" },
+  { icon: Home, title: "Master Planning ", desc: "Strategic planning that transforms ideas into well-structured and functional spaces." },
+  { icon: Sofa, title: "Furniture Design", desc: "Elegant living spaces for comfort and stylish Furniture" },
+  { icon: BedDouble, title: "Interior Design", desc: "Thoughtfully designed interiors that combine aesthetics, comfort, and functionality." },
+  { icon: Sofa, title: "Product Design", desc: "Creative design solutions for unique décor elements and interior products." },
+  { icon: Home, title: "Selections", desc: "Expert guidance in choosing materials, finishes, colors, and furnishings for a cohesive look." },
   { icon: Box, title: "3D Visualization & Space Planning", desc: "Realistic renders before execution" },
 ];
 
@@ -21,7 +21,7 @@ const ServicesSection = () => {
             What We Offer
           </p>
           <h2 className="font-display text-4xl md:text-5xl font-light text-cream mb-3">
-            Our Services
+            Our Main Services
           </h2>
           <div className="w-16 h-px gold-gradient mx-auto" />
         </div>

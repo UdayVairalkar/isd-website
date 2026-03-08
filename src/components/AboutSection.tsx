@@ -11,7 +11,7 @@ const AboutSection = () => {
             Who We Are
           </p>
        <h2 className="font-display text-4xl md:text-5xl font-light mb-3 text-primary-foreground">
-  About Innovate Sage Designs
+  About Innovate Sage  Designs
 </h2>
          
           <div className="w-16 h-px gold-gradient mx-auto mb-10" />
