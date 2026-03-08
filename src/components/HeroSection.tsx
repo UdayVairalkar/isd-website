@@ -27,7 +27,7 @@ const HeroSection = () => {
         <div className="opacity-0 animate-fade-up-delay-1 w-24 h-px gold-gradient mx-auto mb-5" />
 
         <p className="opacity-0 animate-fade-up-delay-1 font-display text-1xl md:text-2xl font-light tracking-wide mb-3" style={{ color: "hsl(40 30% 95%)", textShadow: "0 2px 10px rgba(0,0,0,0.5)" }}>
-          Innovate Sage (नवीन ऋषि )Designs
+          Innovate Sage Designs
         </p>
 
         <p className="opacity-0 animate-fade-up-delay-2 font-body text-sm md:text-base tracking-[0.3em] uppercase text-gold-light mb-10" style={{ textShadow: "0 2px 8px rgba(0,0,0,0.5)" }}>
